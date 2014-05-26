@@ -1,0 +1,33 @@
+
+Archive Name: man2txt.zip
+
+Program Description: MAN file to TXT file tool.
+
+Operating System: OS/2 2.x + emxrt.zip
+
+Program Source: Dennis Lee (dennislee@hknet.com)
+
+
+THIS PROGRAM REQUIRES:
+- the EMX runtimes (found in ftp://hobbes.nmsu.edu/unix/emx09b/emxrt.zip)
+
+This is a simple tool to convert the unix help file (man files) to normal
+text file.
+
+MAIN PURPOSE:
+- with minimun tools to view man files in os2.
+
+Known Bugs:
+- not fully tested, please report. Thanks.
+
+
+Trouble Reporting:
+
+If you need to report a bug, just send me the man file and a description about
+the error.
+
+
+Author : Dennis Lee
+e-mail : dennislee@hknet.com
+
+Proposed directory for placement: /os2/unix
